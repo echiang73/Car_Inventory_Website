@@ -14,9 +14,9 @@ Project repository where students implement a Vehicles API using Java and Spring
 Check each component to see its details and instructions. Note that all three applications
 should be running at once for full operation.
 
-- [Vehicles API](##-Vehicles-API)
-- [Pricing Service](##-Pricing-Service)
-- [Boogle Maps](##-Boogle-Maps)
+- [Vehicles API](#-Vehicles-API)
+- [Pricing Service](#-Pricing-Service)
+- [Boogle Maps](#-Boogle-Maps)
 
 ---
 
