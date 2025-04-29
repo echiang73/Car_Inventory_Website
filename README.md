@@ -1,7 +1,7 @@
 # Build the Backend System for a Car Website
 
 This is Project #3 for the Udacity's [Full Stack Java Developer Nanodegree Program](https://www.udacity.com/course/java-programming-nanodegree--nd079), sponsored by Cognizant.
-The goal of the project is to create an application that can communicate with other services and be able to be viewed and used through Swagger-based API documentation. This project incorporates skills with Spring Boot, APIs, documentation, and testing to implement a Vehicles API that serves as an endpoint to track vehicle inventory. While the primary Vehicles API will perform CRUD operations(opens in a new tab) (Create, Read, Update and Delete) related to vehicle details like make, model, color, etc., it will need to consume data from other APIs as well regarding location and pricing data. The project implements a RESTful API for the Vehicles API, as well as converting a Pricing Service API to a microservice.
+The goal of the project is to create an application that can communicate with other services and be able to be viewed and used through Swagger-based API documentation. This project incorporates skills with Spring Boot, APIs, documentation, and testing to implement a Vehicles API that serves as an endpoint to track vehicle inventory. While the primary Vehicles API will perform CRUD operations (Create, Read, Update and Delete) related to vehicle details like make, model, color, etc., it will need to consume data from other APIs as well regarding location and pricing data. The project implements a RESTful API for the Vehicles API, as well as converting a Pricing Service API to a microservice.
 
 You can download the P02-VehiclesAPI starter project code from the [Github repo](https://github.com/udacity/nd035-C2-Web-Services-and-APIs-Exercises-and-Project-Starter/tree/master/P02-VehiclesAPI).
 
@@ -14,9 +14,9 @@ Project repository where students implement a Vehicles API using Java and Spring
 Check each component to see its details and instructions. Note that all three applications
 should be running at once for full operation.
 
-- [Vehicles API](##Vehicles API)
-- [Pricing Service](##Pricing Service)
-- [Boogle Maps](##Boogle Maps)
+- [Vehicles API](## Vehicles API)
+- [Pricing Service](## Pricing Service)
+- [Boogle Maps](## Boogle Maps)
 
 ---
 
